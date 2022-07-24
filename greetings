@@ -1,0 +1,8 @@
+#!/bin/bash
+
+name=$1
+
+echo "Good Morning $name"
+sleep 2
+echo "how are you doing today?"
+
